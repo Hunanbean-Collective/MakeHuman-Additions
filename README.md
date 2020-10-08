@@ -15,3 +15,6 @@ montybot   https://github.com/montybot/FACSHuman
 Thomas Larsson   https://bitbucket.org/Diffeomorphic/
 
 Hunanbean   https://github.com/Hunanbean-Collective/
+
+
+This is beta 0.4 More accurate and finalized version coming soon
