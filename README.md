@@ -10,5 +10,7 @@ Here is a full 39 Viseme set for use with MakeHuman in coordination with Papagay
 
 These were designed with a combination of Targets by:
 montybot   https://github.com/montybot/FACSHuman
+
 Thomas Larsson   https://bitbucket.org/Diffeomorphic/
+
 Hunanbean   https://github.com/Hunanbean-Collective/
