@@ -18,3 +18,13 @@ in blender, drag your matching audio file into 'video sequencer'
 back in the 'timeline' make sure you set, under playback, to sync audio and video.
 
 More detailed instructions to come in the near future.
+
+
+Here is a full 39 Viseme set for use with MakeHuman in coordination with Papagayo-NG and Blender
+
+These were designed with a combination of Targets by:
+montybot   https://github.com/montybot/FACSHuman
+Thomas Larsson   https://bitbucket.org/Diffeomorphic/
+Hunanbean   https://github.com/Hunanbean-Collective/
+
+All credit for the MHX2 Plugin belongs to Thomas Larsson, without which this would not be possible in its current easy form.
