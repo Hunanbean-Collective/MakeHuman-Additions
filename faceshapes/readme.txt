@@ -28,3 +28,5 @@ Thomas Larsson   https://bitbucket.org/Diffeomorphic/
 Hunanbean   https://github.com/Hunanbean-Collective/
 
 All credit for the MHX2 Plugin belongs to Thomas Larsson, without which this would not be possible in its current easy form.
+
+This is beta 0.4 More accurate and finalized version coming soon
