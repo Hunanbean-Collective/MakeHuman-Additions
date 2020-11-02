@@ -18,3 +18,9 @@ Hunanbean   https://github.com/Hunanbean-Collective/
 
 
 This is beta 0.4 More accurate and finalized version coming soon
+
+Note: This is a fully functioning, useable project as it is.
+
+Due to limited interest, i am focused on other projects instead of rapidly updating this one.
+Please note, this works well right now, as it is. The only future changes would be to perfect the mouth shapes further.
+If you have any questions, open and 'issue' and let me know.
