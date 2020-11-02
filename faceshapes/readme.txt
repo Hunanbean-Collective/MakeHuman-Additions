@@ -3,7 +3,7 @@ During Import do 'Override Exported Data', check mark 'Face Shapes' and 'Merge B
 Any other options as you prefer.
 
 Use Papagayo-NG with my additions found in this git https://github.com/Hunanbean-Collective/Papagayo-NG-Additions
-prepare and export you .dat file
+prepare and export you .dat file   Edit: My changes have been merged into papagayo-ng. no need to use the papagayo files from this repository.
 
 Import the Papagayo .dat file with https://github.com/iCEE-HAM/io_import_lipSync-blender2.8 plugin.
 Suggested settings of 
@@ -30,3 +30,5 @@ Hunanbean   https://github.com/Hunanbean-Collective/
 All credit for the MHX2 Plugin belongs to Thomas Larsson, without which this would not be possible in its current easy form.
 
 This is beta 0.4 More accurate and finalized version coming soon
+Note: due to limited interest i am working on other projects instead of updating this one rapidly.
+This works well as it is now. The only future changes would be to further perfect the mouth shapes.
