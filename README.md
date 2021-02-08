@@ -17,4 +17,4 @@ Hunanbean   https://github.com/Hunanbean-Collective/
 
 
 Please note, this works well right now, as it is. The only future changes would be to perfect the mouth shapes further.
-If you have any questions, open and 'issue' and let me know.
+If you have any questions, open an 'issue' and let me know.
